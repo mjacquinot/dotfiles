@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jacquinot.mangolo@outlook.com
+	name = jacquinot mangolo
